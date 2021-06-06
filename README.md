@@ -41,7 +41,7 @@ This is game UI
 
 ```
 This is sample fruit and hurdle UI
-``'
+```
 ![image](https://user-images.githubusercontent.com/54348709/120939210-56969980-c730-11eb-8fa5-a64f36e70dd0.png)
 
 ```
