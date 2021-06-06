@@ -47,4 +47,4 @@ This is sample fruit and hurdle UI
 ```
 This is Game Over Page
 ```
-![image](https://user-images.githubusercontent.com/54348709/120939271-bbea8a80-c730-11eb-8641-d8e4cfe4e82b.png)
+![image](https://user-images.githubusercontent.com/54348709/120939318-f8b68180-c730-11eb-82d1-8d6a1b336e71.png)
